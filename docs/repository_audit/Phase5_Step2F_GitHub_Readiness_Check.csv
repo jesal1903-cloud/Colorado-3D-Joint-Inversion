@@ -1,0 +1,18 @@
+check,status,details
+Directory src,True,
+Directory data,True,
+Directory outputs,True,
+Directory docs,True,
+Directory notebooks,True,
+Directory tests,True,
+Directory archive,True,
+README.md,True,
+requirements.txt,True,
+environment.yml,True,
+Dockerfile,True,
+LICENSE,True,
+Large files isolated,True,2 large files found
+Secret scan,True,0 suspicious files
+README exists,True,
+README content,True,1535 characters
+Enterprise package,True,

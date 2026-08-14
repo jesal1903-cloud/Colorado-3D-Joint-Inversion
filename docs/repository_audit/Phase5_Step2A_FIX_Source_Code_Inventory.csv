@@ -1,0 +1,12 @@
+file,new_location
+inversion_model.py,src/inversion/inversion_model.py
+endpoint.py,src/inversion/endpoint.py
+extract_fault_surfaces.py,src/structural/extract_fault_surfaces.py
+extract_fault_surfaces_v2.py,src/structural/extract_fault_surfaces_v2.py
+extract_fault_surfaces_20260730_013304.py,src/structural/extract_fault_surfaces_20260730_013304.py
+run_structural_adapter.py,src/structural/run_structural_adapter.py
+view_structural_model.py,src/structural/view_structural_model.py
+export_vtk.py,src/visualization/export_vtk.py
+converters.py,src/utils/converters.py
+inversion_model_backup.py,archive/source_backups/inversion_model_backup.py
+inversion_model_backup_before_well_audit.py,archive/source_backups/inversion_model_backup_before_well_audit.py

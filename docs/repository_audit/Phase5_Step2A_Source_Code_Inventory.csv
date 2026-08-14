@@ -1,0 +1,12 @@
+source,destination,category
+Input Converters/converters.py,src/inversion/converters.py,inversion
+integration_tools/extract_fault_surfaces.py,src/inversion/extract_fault_surfaces.py,inversion
+integration_tools/export_vtk.py,src/inversion/export_vtk.py,inversion
+integration_tools/run_structural_adapter.py,src/inversion/run_structural_adapter.py,inversion
+integration_tools/extract_fault_surfaces_v2.py,src/inversion/extract_fault_surfaces_v2.py,inversion
+integration_tools/view_structural_model.py,src/inversion/view_structural_model.py,inversion
+src/inversion_model.py,src/inversion/inversion_model.py,inversion
+src/inversion_model_backup.py,src/inversion/inversion_model_backup.py,inversion
+src/endpoint.py,src/inversion/endpoint.py,inversion
+src/inversion_model_backup_before_well_audit.py,src/inversion/inversion_model_backup_before_well_audit.py,inversion
+integration_tools/backups/extract_fault_surfaces_20260730_013304.py,src/inversion/extract_fault_surfaces_20260730_013304.py,inversion
