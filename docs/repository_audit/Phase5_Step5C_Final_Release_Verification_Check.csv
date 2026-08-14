@@ -1,0 +1,30 @@
+check,status,details
+GitHub authentication,True,Authenticated
+v1.0.0 release exists,False,"Unknown JSON field: ""isLatest""
+Available fields:
+  apiUrl
+  assets
+  author
+  body
+  createdAt
+  databaseId
+  id
+  isDraft
+  isImmutable
+  isPrerelease
+  name
+  publishedAt
+  tagName
+  tarballUrl
+  targetCommitish
+  uploadUrl
+  url
+  zipballUrl"
+v1.0.0 tag exists locally,True,v1.0.0
+v1.0.0 tag pushed remotely,True,669b1b2e0ed6c2113f7ae1a7ced7498e76423dce	refs/tags/v1.0.0
+Main branch synchronized,True,2dd4a91380e8c1f6417b25654c34543663133599
+Working tree clean,False,"?? docs/repository_audit/Phase5_Step5A_FINAL_Release_Readiness_Check.csv
+?? docs/repository_audit/Phase5_Step5A_FINAL_Release_Readiness_Report.md
+?? docs/repository_audit/Phase5_Step5B_GitHub_Release_v1.0.0_Report.md"
+README available,True,README.md
+Release report available,True,Step 5B release report
