@@ -1,0 +1,8 @@
+check,status,details
+Working tree clean,True,clean
+Main branch active,True,main
+README exists,True,README.md
+LICENSE exists,True,LICENSE
+Dockerfile exists,True,Dockerfile
+environment.yml exists,True,environment.yml
+v1.0.0 available for creation,True,No tags exist
