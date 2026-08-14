@@ -1,0 +1,7 @@
+check,status,details
+GitHub authentication,True,Authenticated
+No existing remote,True,Clean
+GitHub repository created,True,https://github.com/jesal1903-cloud/Colorado-3D-Joint-Inversion
+Origin remote configured,True,"origin	https://github.com/jesal1903-cloud/Colorado-3D-Joint-Inversion.git (fetch)
+origin	https://github.com/jesal1903-cloud/Colorado-3D-Joint-Inversion.git (push)"
+Main branch,True,main

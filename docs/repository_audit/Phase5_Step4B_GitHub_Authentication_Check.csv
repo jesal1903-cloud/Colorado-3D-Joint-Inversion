@@ -1,0 +1,6 @@
+check,status,details
+GitHub CLI available,True,gh version 2.97.0 (2026-07-31)
+GitHub authentication,False,"You are not logged into any GitHub hosts. To log in, run: gh auth login"
+Repository exists,True,/content/drive/MyDrive/3D-Joint-Inversion_Backup/3D-Joint-Inversion-GITHUB-READY
+Main branch,True,main
+Remote not configured yet,True,Ready for new remote

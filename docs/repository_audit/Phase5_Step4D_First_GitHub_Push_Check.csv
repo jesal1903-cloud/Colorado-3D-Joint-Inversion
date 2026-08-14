@@ -1,0 +1,16 @@
+check,status,details
+GitHub authenticated,True,Ready
+Origin remote exists,True,"origin	https://github.com/jesal1903-cloud/Colorado-3D-Joint-Inversion.git (fetch)
+origin	https://github.com/jesal1903-cloud/Colorado-3D-Joint-Inversion.git (push)"
+Main branch,True,main
+Working tree clean,False,"?? docs/repository_audit/Phase5_Step4B_FIX2_GitHub_Authentication_Check.csv
+?? docs/repository_audit/Phase5_Step4B_FIX2_GitHub_Authentication_Report.md
+?? docs/repository_audit/Phase5_Step4B_FIX_GitHub_Authentication_Check.csv
+?? docs/repository_audit/Phase5_Step4B_FIX_GitHub_Authentication_Report.md
+?? docs/repository_audit/Phase5_Step4B_GitHub_Authentication_Check.csv
+?? docs/repository_audit/Phase5_Step4B_GitHub_Authentication_Report.md
+?? docs/repository_audit/Phase5_Step4C_GitHub_Repository_Creation_Check.csv
+?? docs/repository_audit/Phase5_Step4C_GitHub_Repository_Creation_Report.md"
+No files >100MB tracked,True,0 files
+GitHub push completed,False,fatal: could not read Username for 'https://github.com': No such device or address
+Branch tracking configured,False,* main af37892 Add GitHub remote preparation audit
