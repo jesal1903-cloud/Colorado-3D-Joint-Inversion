@@ -1,0 +1,10 @@
+check,status,detail
+Git repository exists,True,
+Main branch active,True,main
+Commit history valid,True,10 commits
+No tracked files >100MB,True,0 found
+data/ ignored,True,.gitignore:94:data/	data/
+outputs/ ignored,True,.gitignore:100:outputs/	outputs/
+archive/ ignored,True,.gitignore:84:archive/	archive/
+No real secrets found,True,0 files
+Working tree clean,True,clean
