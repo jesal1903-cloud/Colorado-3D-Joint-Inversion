@@ -79,3 +79,6 @@ outputs/validation/
 
 build/
 dist/
+
+# Historical backups
+archive/
