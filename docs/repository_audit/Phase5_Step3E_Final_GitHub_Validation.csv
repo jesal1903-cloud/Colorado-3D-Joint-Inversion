@@ -1,0 +1,8 @@
+check,status,details
+Git repository exists,True,
+Main branch active,True,main
+Commit history exists,True,4 commits
+No large tracked files,True,0 found
+Scientific data protection,True,5/5
+No secret patterns found,False,2 files
+Working tree clean,False,
