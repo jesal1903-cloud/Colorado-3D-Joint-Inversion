@@ -1,0 +1,9 @@
+name: 3d-joint-inversion
+
+channels:
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python=3.12
+  - pip
