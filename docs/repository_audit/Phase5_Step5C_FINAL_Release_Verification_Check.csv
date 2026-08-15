@@ -1,0 +1,9 @@
+check,status,details
+GitHub authentication,True,Authenticated
+v1.0.0 release exists,True,"{""isDraft"":false,""isPrerelease"":false,""name"":""Colorado 3D Joint Inversion v1.0.0"",""publishedAt"":""2026-08-14T04:40:06Z"",""tagName"":""v1.0.0""}"
+v1.0.0 tag exists locally,True,v1.0.0
+v1.0.0 pushed remotely,True,669b1b2e0ed6c2113f7ae1a7ced7498e76423dce	refs/tags/v1.0.0
+Main branch synchronized,True,89e6f5f1a888bce1bb35b6f3fcff540a905094f1
+Working tree clean,True,clean
+README available,True,README.md
+Enterprise handoff report available,True,Handoff report
